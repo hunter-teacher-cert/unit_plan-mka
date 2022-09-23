@@ -1,9 +1,13 @@
 # UNIT PLAN NAME
-by TEAM MEMBERS
+by Adam Driggs, Katherine (Kate) Maschmeyer, and Marisa Shuman
 
 -----
 
 ### General Overview
+Ideas for Game Design with p5
+* Basic Game
+* Conditionals
+* Basic Sprite
 (include here description of unit, what class(es) it fits into, when...)
 
 ---
