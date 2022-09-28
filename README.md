@@ -5,10 +5,15 @@ by Adam Driggs, Katherine (Kate) Maschmeyer, and Marisa Shuman
 
 ### General Overview
 Ideas for Game Design with p5
-* Basic Game
+* Basic Game: pong?  snake?  player/target/danger?  (setting, players, win condition, lose condition?)
 * Conditionals
-* Basic Sprite
+* Basic Sprite - could fit into object-oriented programming (use of an object & third-party functions)
 (include here description of unit, what class(es) it fits into, when...)
+
+Questions: 
+* what skills will we assume students have for this unit?
+* what will the end product be?
+* what areas are available for student choice?
 
 This unit fits into a course taught in p5.js. 
 
@@ -35,19 +40,24 @@ List The NY State Computer Science standards you will be covering in this unit. 
 ---
 
 ### Tools Used
-p5.js
-p5 reference sheet
-p5 editor OR replit
-
+* p5.js
+* p5 reference sheet
+* p5 editor OR replit
+* community-based libraries for games, like collide2d (https://github.com/bmoren/p5.collide2D) or p5play (https://p5play.org/)
 ---
 
 ### Resources
 (include any links/books/readings to be used during this unit)
+* collide2D: https://github.com/bmoren/p5.collide2D
+* p5play: https://p5play.org/
+* https://creative-coding.decontextualize.com/making-games-with-p5-play/
+* https://p5play.org/learn/sprite.html
 
 ---
 
 ### Lessons
-Total lenght: X Weeks
+Total length: 10 lessons
+
 
 (list each lesson with main topic(s))
 
@@ -55,5 +65,11 @@ Total lenght: X Weeks
 
 ### Assesments
 (list summative and/or formative assessments used)
+Formative: (Check points along process?)
+
+Summative:  Gaming Project
+
+
+
 
 ---
