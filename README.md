@@ -1,5 +1,5 @@
 # UNIT PLAN NAME
-by Adam Driggs, Katherine (Kate) Maschmeyer, and Marisa Shuman
+by Adam Driggers, Katherine (Kate) Maschmeyer, and Marisa Shuman
 
 -----
 
@@ -44,32 +44,31 @@ List The NY State Computer Science standards you will be covering in this unit. 
 * p5 reference sheet
 * p5 editor OR replit
 * community-based libraries for games, like collide2d (https://github.com/bmoren/p5.collide2D) or p5play (https://p5play.org/)
+
 ---
 
 ### Resources
 (include any links/books/readings to be used during this unit)
-* collide2D: https://github.com/bmoren/p5.collide2D
-* p5play: https://p5play.org/
-* https://creative-coding.decontextualize.com/making-games-with-p5-play/
-* https://p5play.org/learn/sprite.html
+* [collide2D](https://github.com/bmoren/p5.collide2D)
+* [p5play](https://p5play.org/)
+* [Making Games with p5 Play](https://creative-coding.decontextualize.com/making-games-with-p5-play/)
+* [sprites: p5 Play](https://p5play.org/learn/sprite.html)
 
 ---
 
 ### Lessons
 Total length: 10 lessons
-
-
 (list each lesson with main topic(s))
 
 ---
 
-### Assesments
-(list summative and/or formative assessments used)
+### Assessments
 Formative: (Check points along process?)
-
 Summative:  Gaming Project
 
-
-
-
 ---
+
+### Examples
+- [Slide Game](./examples/slide/slide.html)
+ 
+ 
