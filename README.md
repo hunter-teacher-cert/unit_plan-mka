@@ -1,21 +1,12 @@
-# UNIT PLAN NAME
+# Games in p5.js
 by Adam Driggers, Katherine (Kate) Maschmeyer, and Marisa Shuman
 
 -----
 
 ### General Overview
-Ideas for Game Design with p5
-* Basic Game: pong?  snake?  player/target/danger?  (setting, players, win condition, lose condition?)
-* Conditionals
-* Basic Sprite - could fit into object-oriented programming (use of an object & third-party functions)
-(include here description of unit, what class(es) it fits into, when...)
+This unit fits into a class taught in p5.js. Students will be taught how to create sprite and manipulate it in order to make games. We will reference basic game design elements and allow the students to create a game of their own as their final product.
 
-Questions: 
-* what skills will we assume students have for this unit?
-* what will the end product be?
-* what areas are available for student choice?
-
-This unit fits into a course taught in p5.js. 
+It is assumed that students have a foundational knowledge of JavaScript which includes fluency in variables, conditionals, and for loops. Additionally, this unit serves as a fantastic precursor to a unit on Object Oriented Programming in JavaScript.
 
 ---
 
@@ -63,8 +54,19 @@ Total length: 10 lessons
 ---
 
 ### Assessments
-Formative: (Check points along process?)
-Summative:  Gaming Project
+**Formative**: Check points along process
+Smaller Assignments and labs including:
+* 01_Sprite Lab
+* 02_Sprite_Art_Lab
+* 03_Mouse_Movement_Lab
+* 05_Groups_Lab
+
+**Summative**: Projects including: 
+* 04_Game1
+* 06_Game2
+* Final_Project
+* Presentation_Code_Review
+
 
 ---
 
