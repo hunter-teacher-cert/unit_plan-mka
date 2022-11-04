@@ -63,8 +63,19 @@ Total length: 10 lessons
 ---
 
 ### Assessments
-Formative: (Check points along process?)
-Summative:  Gaming Project
+**Formative**: Check points along process
+Smaller Assignments and labs including:
+* 01_Sprite Lab
+* 02_Sprite_Art_Lab
+* 03_Mouse_Movement_Lab
+* 05_Groups_Lab
+
+**Summative**: Projects including: 
+* 04_Game1
+* 06_Game2
+* Final_Project
+* Presentation_Code_Review
+
 
 ---
 
