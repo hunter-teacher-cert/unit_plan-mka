@@ -1,72 +1,57 @@
-# Assignments 
+# Assessments
 
-## Sprite Lab
-Create a circle sprite that falls with gravity
-Create a square sprite the moves with wasd
-Create a floor sprite that is a static collider
+## Formative Assessments
 
-## Game 1
-avoid falling stars
-- falling sprites
-- keyboard movement
-- collisions
-- survive to win
+### 01_Sprite_Lab
+* Day 1: Code: Practice creating and modify sprites & Reflection
+* Day 2: Code: Practice creating dynamic and static sprites that collide and overlap (Mild/Medium/Spicy)
 
-### Challenge
-- make it icy! The ground is ice, making the game harder. See Mario 2 ice levels.
+See 01_Sprite_Lab lesson for further details.  
 
-## Sprite Art Lab
-Description: Basic Sprites are boring. Create a Pixel Art Sprite. 
+### 03_SpriteArtLab
+Code: students create a sprite using an image file, '8-bit' sprite, or sprite animation using sprite sheet.
 
-Option 1
-- Start on paper, use a 16 by 16 grid to create a sprite. Translate to a string value in p5.
+See 03_SpriteArtLab lesson for further details.  
 
-Option 2
-- Set a sprite to a PNG
+### 04_Mouse_Movement_Lab_Lesson
+Code: students make sprites change with mouse input: hover, click, and click and drag.
+Exit Slip: What is the difference between “hover” and “press”? 
 
-Use a for loop to create 100 copies of your sprte
-- How is performance effected?
+See 04_Mouse_Movement_Lab_Lesson_Plan for further details.
 
-Skills Needed
-- for loops
-- creating a sprite
-- setting a sprites image
+### 05_Keyboard
+Code: students make sprites change with keyboard input
 
-### Challenge
-- Animation your sprite!
-- Use a sprite sheet (super challenge?)
+### 07_Groups
+Code: Students create Groups of sprites and non-grouped sprites, use indexing to modify property of one sprite in a Group, and have the non-grouped sprite interact with Groups.
 
-## Mouse Movement Lab
-Starter code with a simple square sprite in the middle. Using the mouse functions
-- square turns red when you mouse over it.
-- square turns green when you click it
-- if you click and drag the square you can change its position
+Exit Slip:
+* What are advantages to groups and sprites?
+* What are disadvantages to groups and sprites?
 
-### Challenge
-- Mix this code with the sprite lab. Change between sprite looks when the mouse interacts with the sprite.
+### 09_Play Testing Collaboration
+Student observation and think/pair/share: 
+* How did testing help you improve your game?
+* What part of the play testing was difficult? What was easy?
 
-## Game 2
-coin collector
-- coins that appear in random places
-- mouse movement to control the sprite
-- collisions, add points when coins are collected
+(Students will present final game and discuss process as part of summative presentation)
 
-### Challenge
--  Add a timer, how many coins can you collect in 10 seconds
+## Summative Assessments
 
-## Tiles Lab
-Learn how to use the tiles feature
+## Meteor Game (06_Game1)
+Students create a meteor game with p5 and p5play.
 
-## Game 3
-Don't touch lava! A single platforming level
-- use tile group to create a platform level
-- sprite movement with the keyboard
-- gravity jump
-- wasd movement
+Game includes:
+* Player sprite avoids a falling obstacle sprite
+* Player interaction controlled by  WASD IJKL or the mouse.
+* Game has a losing condition.
 
-### Challenge
-Multiple Levels! When the player gets to the goal go to the next level
+## Final Game (08_game02)
+* Game uses the p5.play physics engine to detect collisions, apply gravity or friction, and/or check obstacles.
+* Game contains an enemy sprite that the player must evade
+* Player interaction controlled by  AWSD IJKL or the mouse.
+* Game has a win/lose condition.
+* Game uses groups of sprites and iterates through groups for game play.
 
-## Final Project
-Make a game that blows our minds. 
-
+## Presentation of Final Game (10_presentations)
+Students present their game to the class.
