@@ -42,7 +42,7 @@ Student observation and think/pair/share:
 
 ## Summative Assessments
 
-## Meteor Game (06_Game1)
+### Meteor Game (06_Game1)
 Students create a meteor game with p5 and p5play.
 
 Game includes:
@@ -50,12 +50,12 @@ Game includes:
 * Player interaction controlled by  WASD IJKL or the mouse.
 * Game has a losing condition.
 
-## Final Game (08_game02)
+### Final Game (08_game02)
 * Game uses the p5.play physics engine to detect collisions, apply gravity or friction, and/or check obstacles.
 * Game contains an enemy sprite that the player must evade
 * Player interaction controlled by  AWSD IJKL or the mouse.
 * Game has a win/lose condition.
 * Game uses groups of sprites and iterates through groups for game play.
 
-## Presentation of Final Game (10_presentations)
+### Presentation of Final Game (10_presentations)
 Students present their game to the class.
