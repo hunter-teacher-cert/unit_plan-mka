@@ -9,25 +9,29 @@
 See 01_Sprite_Lab lesson for further details.  
 
 ### 03_SpriteArtLab
-Code: students create a sprite using an image file, '8-bit' sprite, or sprite animation using sprite sheet.
+* Code: students create a sprite using an image file, '8-bit' sprite, or sprite animation using sprite sheet.
 
 See 03_SpriteArtLab lesson for further details.  
 
 ### 04_Mouse_Movement_Lab_Lesson
-Code: students make sprites change with mouse input: hover, click, and click and drag.
-Exit Slip: What is the difference between “hover” and “press”? 
+* Code: students make sprites change with mouse input: hover, click, and click and drag.
+* Exit Slip: What is the difference between “hover” and “press”? 
 
 See 04_Mouse_Movement_Lab_Lesson_Plan for further details.
 
 ### 05_Keyboard
-Code: students make sprites change with keyboard input
+* Code: students make sprites change with keyboard input
+
+See 05_Keyboard lesson plan for further details.
 
 ### 07_Groups
-Code: Students create Groups of sprites and non-grouped sprites, use indexing to modify property of one sprite in a Group, and have the non-grouped sprite interact with Groups.
+* Code: Students create Groups of sprites and non-grouped sprites, use indexing to modify property of one sprite in a Group, and have the non-grouped sprite interact with Groups.
 
-Exit Slip:
-* What are advantages to groups and sprites?
-* What are disadvantages to groups and sprites?
+* Exit Slip:
+  * What are advantages to groups and sprites?
+  * What are disadvantages to groups and sprites?
+  
+See 07_Groups lesson plan for further details.
 
 ### 09_Play Testing Collaboration
 Student observation and think/pair/share: 
