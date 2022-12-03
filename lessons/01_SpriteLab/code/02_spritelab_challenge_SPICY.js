@@ -4,7 +4,7 @@ let level1;
 let level2;
 let level3;
 let block;
-
+let coin;
 let post;
 
 
@@ -47,6 +47,9 @@ function setup() {
   level2.color = color(121, 85, 72);
 
   block = new Sprite(380, 270, 50, 50);
+  
+  coin = new Sprite(270, 280, 10, "static");
+  coin.color = color(238, 204, 45);
  
   post = new Sprite(72, 630, 80, 400, "static");
   post.color = color(121, 85, 72);
@@ -71,22 +74,16 @@ function draw() {
   if(ball.collides(level2)) {
     level2.rotation = -15;
   }
+  
+  if (ball.overlaps(coin)) {
+    coin.remove();
+  }
 
   if(ball.collides(post)) {
     ball.color = color(223, 255, 0);
     post.collider = "dynamic";
   }
   
-  // // if the player collides with the floor
-  // if(player.collides(floor)) { 
-  //   player.w = 100; // change the player's width
-  //   floor.rotation = 15; // rotate the floor by 15 degrees
-  // }
-
-  // if (ball.overlaps(dot)) {
-  //  dot.remove();
-  // }
-
   
   
   // helper code, feel free to comment out
