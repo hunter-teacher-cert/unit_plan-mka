@@ -59,10 +59,13 @@ We have decided to make this unit for a game design course taught in p5. We all 
 ### Assessments
 **Formative**: Check points along process
 Smaller Assignments and labs including:
-* 01_Sprite Lab
-* 02_Sprite_Art_Lab
-* 03_Mouse_Movement_Lab
-* 05_Groups_Lab
+* 01_Sprite_Lab code
+* 03_SpriteArtLab code
+* 04_Mouse_Movement_Lab exit slip & code
+* 05_Keyboard code
+* 07_Groups  code & exit slip
+* 09_Play_Testing exit slip
+
 
 **Summative**: Projects including:
 * Game 1
