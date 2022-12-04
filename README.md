@@ -1,4 +1,4 @@
-# Introduction to p5 Play
+# Games with p5 Play
 by Adam Driggers, Katherine (Kate) Maschmeyer, and Marisa Shuman
 
 -----
