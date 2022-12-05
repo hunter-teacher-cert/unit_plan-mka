@@ -77,4 +77,3 @@ Smaller Assignments and labs including:
 ### Examples
 Live examples for the code in this unit can be found [here](https://awdriggs.github.io/p5PlayIntro/).
 
-
